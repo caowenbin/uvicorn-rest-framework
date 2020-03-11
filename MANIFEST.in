@@ -1,0 +1,2 @@
+global-exclude __pycache__
+graft rest_framework
